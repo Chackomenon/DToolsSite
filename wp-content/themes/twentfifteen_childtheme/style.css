@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Twenty Twelve - My Version
+ Description:  Twenty Twelve Child Theme
+ Author:       Nithin
+ Template:     twentytwelve
+ Version:      1.0.0
+ */
+
+
+
+@import url('../twentytwelve/style.css');
+
+body{
+	color: #3b5994 !important;
+}
